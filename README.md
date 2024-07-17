@@ -1,4 +1,4 @@
-![Alt text](/WordPress web site on AWS)
+![Alt text](/WordPress_web_site_on_AWS.png)
 
 # WordPress Website Hosting on AWS
 
