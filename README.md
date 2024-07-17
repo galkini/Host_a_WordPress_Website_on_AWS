@@ -1,6 +1,6 @@
 # WordPress Website Hosting on AWS
 
-This project demonstrates how to host a WordPress website on AWS using various AWS services to ensure reliability, fault tolerance, and security. The project includes a reference architecture diagram and deployment scripts available in the [GitHub repository](https://github.com/galkini/Host_a_WordPress_Website_on_AWS/).
+This project demonstrates how to host a WordPress website on AWS using various AWS services to ensure reliability, fault tolerance, and security. The project includes a reference architecture diagram and deployment scripts available in the [GitHub repository](https://github.com/galkini/Host_a_WordPress_Website_on_AWS).
 
 ## Architecture Overview
 
