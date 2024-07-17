@@ -188,7 +188,7 @@ The following steps outline how to deploy the WordPress website on an EC2 instan
 
 ## Repository
 
-Find all configuration files, diagrams, and scripts in the [GitHub repository](https://github.com/your-repo-link).
+Find all configuration files, diagrams, and scripts in the [GitHub repository](https://github.com/galkini/Host_a_WordPress_Website_on_AWS).
 
 ## Additional Configuration
 
