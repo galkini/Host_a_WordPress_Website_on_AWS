@@ -206,7 +206,3 @@ Find all configuration files, diagrams, and scripts in the [GitHub repository](h
 ## Conclusion
 
 By following the steps outlined above, you can successfully host a WordPress website on AWS with a robust and scalable architecture. This setup leverages various AWS services to ensure high availability, security, and efficient management of resources.
-
----
-
-Feel free to customize the links, descriptions, and configuration details as needed for your specific project.
